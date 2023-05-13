@@ -8,3 +8,4 @@ echo "#Dedication is important in every work
 #give your 100% effort
 #put your intrest and iprove your skills 
 #Dont ever stop it"
+echo "ls -l"
